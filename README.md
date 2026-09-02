@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040099
+# Name:gowtham u
+# Date:31-08-2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1112" height="908" alt="Screenshot 2026-09-02 222606" src="https://github.com/user-attachments/assets/b7104304-e60d-478c-a831-020e6e2c0dc9" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1252" height="868" alt="Screenshot 2026-09-02 222618" src="https://github.com/user-attachments/assets/26a855e7-4e8f-4e86-96f6-e43163684815" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1035" height="896" alt="Screenshot 2026-09-02 222635" src="https://github.com/user-attachments/assets/f3986f3c-c7c1-43d5-9822-153021a6c692" />
 
 
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1112" height="762" alt="Screenshot 2026-09-02 222649" src="https://github.com/user-attachments/assets/4e87f668-9ead-429e-90b1-2371ba0e41f6" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="922" height="906" alt="Screenshot 2026-09-02 222705" src="https://github.com/user-attachments/assets/f13b8557-0e48-4631-af20-8d7480d10385" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1075" height="907" alt="Screenshot 2026-09-02 222720" src="https://github.com/user-attachments/assets/fd352d99-698c-4991-8377-e8597bbe9951" />
 
 
 
